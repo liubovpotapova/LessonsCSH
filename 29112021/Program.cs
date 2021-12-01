@@ -87,7 +87,7 @@ void FindAndShowNumberPositions (int [,] arrayMatrix, int userNumber)
 }
 
 
-int[,] matrixArray50 = new int[6, 6];
+int[,] matrixArray50 = new int[6, 5];
 FillMatrix(matrixArray50);
 PrintMatrix(matrixArray50);
 int userNumber = RequestUserNumber();
